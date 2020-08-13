@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+    background-color: #fcfcfc;
+}
+
+.new-user-data-page {
+    text-align: center;
+
+    .uk-margin-xlarge {
+        width: 60%;
+        margin: auto;
+        text-align: left;
+    }
+
+    #privacy-checkbox {
+        margin-right: 15px;
+    }
+
+    .login-footer {
+        position: relative !important;
+    }
+}
